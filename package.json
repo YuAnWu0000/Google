@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0"
+  }
+}

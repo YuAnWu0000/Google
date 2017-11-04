@@ -1,0 +1,1 @@
+2017/11/03 Google_calendar_api串接: auth, listEvents, listCals, insertEventToGoogleCalendar, editEventToGoogleCalendar, deleteEventToGoogleCalendar以上function完成且測試成功
