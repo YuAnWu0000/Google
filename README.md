@@ -1,5 +1,5 @@
-2017/11/03 Google_calendar_api串接: <br />
-##　取得google api存取權限: <br />
+# 2017/11/03 Google_calendar_api串接: <br />
+## 取得google api存取權限: <br />
 auth　<br /><br />
 ## 讀取Google calendar主日曆下的事件 <br />
 listEvents<br /> <br />
