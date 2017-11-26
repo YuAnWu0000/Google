@@ -5,7 +5,7 @@
 讀取Google calendar主日曆下的事件 <br /> <br />
 ## listCals <br />
 讀取Google calendar下的所有日曆 <br /> <br />
-##insertEventToGoogleCalendar <br />
+## insertEventToGoogleCalendar <br />
 新增事件至Google calendar日曆下 <br /> <br />
 ## editEventToGoogleCalendar <br />
 將Google calendar日曆下的事件進行編輯 <br /> <br />
